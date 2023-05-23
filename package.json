@@ -29,6 +29,7 @@
 		}
 	],
 	"dependencies": {
+		"bridge.js": "^2.10.0",
 		"node-osc": "^1.2.0",
 		"socket.io": "^1.7.4"
 	},
